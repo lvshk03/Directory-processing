@@ -7,22 +7,33 @@ The CTL (CATALOG) structure includes 8 fields: name, section (dairy, bakery, mea
 # Functions
 clear (void) - to clear the console in
 dependence of operating system.
+
 Create (list2*) - to create a doubly connected
 linear list.
+
 save (void) - to overwrite a file (i.e.
 save user changes).
+
 inpup (CTL) - for filling cards with strings
 from file.
+
 head (void) - for beautiful output of titles
 card fields.
+
 little_outpup (void) - to output one card.
+
 count_strings (int) - to count the number of rows in
 file.
+
 delete_mass (int) - to delete one card.
+
 add (void) - to add one more card.
+
 edit (CTL) - to edit any field of card.
+
 find_card (void) - to search for a card by different
 fields.
+
 sort (void) - to sort cards by
 different fields.
 
